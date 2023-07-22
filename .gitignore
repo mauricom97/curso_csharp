@@ -1,0 +1,46 @@
+# Visual Studio / Visual Studio Code
+.vs/
+.vscode/
+
+# Compiled output
+/bin/
+/obj/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+bld/
+[Bb]in/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# StyleCop
+StyleCopReport.xml
+
+# Resharper
+_resharper*
+
+# NCrunch
+_NCrunch_*
+
+# DotCover
+*.dotCover
+
+# TeamCity
+_TeamCity*
+
+# Razzle
+node_modules/
